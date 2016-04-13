@@ -11,7 +11,7 @@
     "@brand-info": "#5bc0de",
     "@brand-warning": "#f0ad4e",
     "@brand-danger": "#d9534f",
-    "@body-bg": "#E6E6F7",
+    "@body-bg": "#fff",
     "@text-color": "@gray-dark",
     "@link-color": "@brand-primary",
     "@link-hover-color": "darken(@link-color, 15%)",
@@ -146,7 +146,7 @@
     "@navbar-padding-horizontal": "floor((@grid-gutter-width / 2))",
     "@navbar-padding-vertical": "((@navbar-height - @line-height-computed) / 2)",
     "@navbar-collapse-max-height": "340px",
-    "@navbar-default-color": "#555",
+    "@navbar-default-color": "#777",
     "@navbar-default-bg": "#f8f8f8",
     "@navbar-default-border": "darken(@navbar-default-bg, 6.5%)",
     "@navbar-default-link-color": "#777",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=4aa83307c47bd2783bd08931554264f9"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=c2db21971be5a63dcef4b86be440e6f9"
 }

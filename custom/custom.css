@@ -1,3 +1,35 @@
-h1 {
-    border: 10px solid red;
+#myCarousel {
+    height:400px;
+}
+
+.carousel-inner {
+    height:400px;
+}
+
+.carouselitem {
+    height:400px;
+    margin: 0 auto;
+}
+
+.cslide {
+     width: auto;
+     min-width: 1000px;
+     margin: auto;
+}
+.storycontainer {
+    border: solid;
+    padding: 10px;
+    border-width: 1px;
+    margin-top: 30px;
+    border-color: #ccc;
+}
+
+h4 {
+    
+}
+.titlesection {
+    height:80px;
+}
+.tidbitsection {
+    height:150px;
 }
